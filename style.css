@@ -22,3 +22,8 @@ nav {
   padding-right: 10px;
   background-color: yellow;
 }
+
+figcaption {
+  font-size: 12px;
+  text-align: center
+}
